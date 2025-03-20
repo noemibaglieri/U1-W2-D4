@@ -125,6 +125,8 @@ function reverseString(string) {
 }
 
 console.log(reverseString("epicode"));
+
+console.log(divider);
 /* ESERCIZIO 8
  Scrivi una funzione di nome "upperFirst", che riceve come parametro una stringa formata da diverse parole.
  La funzione deve rendere maiuscola la prima lettera di ogni parola contenuta nella stringa.
@@ -149,6 +151,7 @@ function upperFirst(string) {
 
 console.log(upperFirst("ciao come stai?"));
 
+console.log(divider);
 /* ESERCIZIO 9
  Scrivi una funzione di nome "cutString", che riceve come parametro una stringa. La funzione deve creare una nuova stringa senza il primo e l'ultimo carattere
  della stringa originale.
@@ -165,6 +168,8 @@ function cutString(string) {
 }
 
 console.log(cutString("ciao"));
+
+console.log(divider);
 /* ESERCIZIO 10
  Scrivi una funzione di nome "giveMeRandom", che accetta come parametro un numero n e ritorna un'array contenente n numeri casuali inclusi tra 0 e 10.
 */
